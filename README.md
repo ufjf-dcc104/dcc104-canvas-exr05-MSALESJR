@@ -6,7 +6,7 @@
 
 ```
 <p align="center">
-  <img src="tela.png" width="350"/>
+  <img src="tela.png" width="100%"/>
 </p>
 
 
